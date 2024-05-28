@@ -7,5 +7,4 @@
     🖥️ Python • NodeJS • C++
     💫 Music • Games • Code
 </pre>
-<br><br>
 </div>
