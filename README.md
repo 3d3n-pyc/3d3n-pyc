@@ -4,7 +4,7 @@
   <br>
 <pre>
     👑 AnySearch • CraftCompanion 
-    🖥️ Python • NodeJS • C++
-    💫 Music • Games • Code
+    🖥️ Python • NodeJS • C++      
+    💫 Music • Games • Code       
 </pre>
 </div>
