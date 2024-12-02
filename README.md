@@ -5,7 +5,7 @@
   <br></br>
 <pre>
     👑 AnySearch • CraftCompanion 
-         💫 Music • Games • Code       
+          💫 Music • Games • Code       
     🖥️ Epitech Student
 </pre>
 
