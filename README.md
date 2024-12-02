@@ -5,7 +5,7 @@
   <br></br>
 <pre>
     👑 AnySearch • CraftCompanion 
-     🖥️ Epitech Student (TEK 1)
+          🖥️ Epitech Student
            💫 Music • Games • Code       
 </pre>
 
