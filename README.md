@@ -6,7 +6,7 @@
 <pre>
     👑 AnySearch • CraftCompanion 
      🖥️ Epitech Student (TEK 1)
-       💫 Music • Games • Code       
+         💫 Music • Games • Code       
 </pre>
 
   <a href="https://wakatime.com/@e16f8dc4-b56f-49c4-8545-e57b81a03503">
