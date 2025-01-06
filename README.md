@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/yAcsSbC.png" width="25%" align="right" />
   <br></br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=30&pause=400&color=F74949&center=true&random=false&width=435&lines=French+developer;17+years+old;Student+at+Epitech" alt="Typing SVG" width="50%" /> </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=30&pause=400&color=F74949&center=true&random=false&width=435&lines=French+developer;18+years+old;Student+at+Epitech" alt="Typing SVG" width="50%" /> </a>
   <br></br>
 <pre>
     👑 AnySearch • CraftCompanion 
